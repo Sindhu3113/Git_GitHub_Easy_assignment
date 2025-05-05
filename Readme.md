@@ -18,3 +18,5 @@
  This commit was made after entering the text define a merge conflict
 
  ![git diff command history](git_diff_histoy.png)
+
+added a new branch called feature
