@@ -1,1 +1,2 @@
 this is second file in commit changes repo 
+this file is used to understand git diff command
