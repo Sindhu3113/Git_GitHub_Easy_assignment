@@ -3,4 +3,5 @@ Tech-Intern at Minfy
 I'm from SNIST
 This is a Git and GitHub tutorials and a Git and GitHub Assignment
 add a footer file
-add a new branch 
+add a new branch msg
+define a merge conflict
