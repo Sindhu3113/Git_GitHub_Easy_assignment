@@ -16,3 +16,5 @@
 4. # add a merge conflict definition #
 
  This commit was made after entering the text define a merge conflict
+
+ ![git diff command history](git_diff_histoy.png)
